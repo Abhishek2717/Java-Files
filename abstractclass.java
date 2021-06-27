@@ -1,4 +1,4 @@
-`abstract class abstractclass 
+abstract class abstractclass 
 {
     abstract void abhi();
     {
